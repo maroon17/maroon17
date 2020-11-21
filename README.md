@@ -9,5 +9,3 @@ When I'm not working, running, or hanging out with my family, I blog about techn
 I like meeting new like-minded people, so feel free to reach out [on Twitter](https://twitter.com/fyodorio) or get in touch [on LinkedIn](https://www.linkedin.com/in/fyodorio/).
 
 ![](https://media.giphy.com/media/MOKek8nMgn4c/giphy.gif)
-
-![](https://www.codewars.com/users/fyodorio/badges/micro)
